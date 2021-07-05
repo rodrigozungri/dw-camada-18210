@@ -1,3 +1,3 @@
-## Este es el readme de nuestro primer repositorio.
+## Este es el README de nuestro primer repositorio
 - Camada 18210
-- Sabados de 10 a 14.30
+- Sábados de 10 a 14.30
